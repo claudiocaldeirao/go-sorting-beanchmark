@@ -23,6 +23,6 @@ The benchmark results are plotted as a line chart (`benchmark_chart.png`) with:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/go-sorting-benchmark.git
+   git clone https://github.com/claudiocaldeirao/go-sorting-benchmark.git
    cd go-sorting-benchmark
    ```
