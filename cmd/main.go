@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"benchmark/sort"
+	"benchmark/internal/sort"
 
 	"github.com/wcharczuk/go-chart/v2"
 )
